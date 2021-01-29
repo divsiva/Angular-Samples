@@ -1,0 +1,33 @@
+<div class="container-fluid" >
+  <div class="row">
+    <h2 class="title"> Photos and Video Gallery</h2>
+  </div>
+  <ul class="nav nav-tabs">
+    <li class="nav-item">
+      <a class="nav-link active" data-toggle="tab" href="#images">Photos</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#videos">Videos</a>
+    </li>
+  </ul>
+  <div class="tab-content">
+    <div id="images" class="tab-pane active"><br>
+      <div class="images" infiniteScroll [infiniteScrollDistance]="1" [infiniteScrollThrottle]="50" [fromRoot]="true"
+        [infiniteScrollContainer]="'#images'" (scrolled)="onImageScrollDown()">
+        <div id="animated-thumbnials">
+          <a *ngFor="let image of albums.images;" [href]="image.imgSrc">
+            <img [src]="image.thumbSrc" height="200" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="videos" class="tab-pane fade"><br>
+      <div id="video-gallery" infiniteScroll [infiniteScrollDistance]="2" [infiniteScrollThrottle]="50"
+        [fromRoot]="true" [infiniteScrollContainer]="'#videos'" (scrolled)="onVideoScrollDown()">
+        <a [href]="video.src" *ngFor="let video of albums.video;">
+          <img [src]="video.poster" width="400" />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+Ul {
+    li{
+        list-style-type: none;
+    }
+}
+h2.title{
+    padding: 20px;
+    background-color:silver;
+    width:100%;
+    color:#fff;
+    text-align:center;
+}
+#animated-thumbnials a, #video-gallery a{
+    padding:10px;
+    display:inline-block;
+}
+#images, #videos{
+    overflow:Scroll;
+    height:500px;
+}
+body{
+    overflow:hidden;
+}
