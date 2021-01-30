@@ -33,7 +33,6 @@
             ],
             "scripts": [
               "node_modules/lightgallery.js/dist/js/lightgallery.js",
-              "node_modules/lg-video/dist/lg-video.min.js",
               "node_modules/jquery/dist/jquery.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
