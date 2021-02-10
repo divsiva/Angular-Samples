@@ -148,6 +148,8 @@ export class ChartsComponent implements AfterViewInit {
          "timeUnit": "year",
          count: 1
       }
+      this.dateAxis.title.text = 'Year';
+      this.dateAxis.title.fontWeight = "bold";
       this.chart.cursor = new am4charts.XYCursor();
       this.chart.scrollbarX = new am4core.Scrollbar();
       this.amchart = this.chart;
