@@ -1,0 +1,501 @@
+{
+    "Sheet1": [
+        {
+            "businessStartDate": "1/1/1983"
+        },
+        {
+            "businessStartDate": "1/7/1990"
+        },
+        {
+            "businessStartDate": "1/1/1998"
+        },
+        {
+            "businessStartDate": "1/5/2008"
+        },
+        {
+            "businessStartDate": "1/1/2009",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "10/9/2013",
+            "Neighborhoods": "Noe Valley"
+        },
+        {
+            "businessStartDate": "01/27/2014",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "07/15/2015",
+            "Neighborhoods": "Potrero Hill"
+        },
+        {
+            "businessStartDate": "05/20/2015",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "2/5/2016"
+        },
+        {
+            "businessStartDate": "7/11/2016",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/10/2016",
+            "Neighborhoods": "Chinatown"
+        },
+        {
+            "businessStartDate": "03/28/2018",
+            "Neighborhoods": "Tenderloin"
+        },
+        {
+            "businessStartDate": "05/31/2019"
+        },
+        {
+            "businessStartDate": "02/15/2017"
+        },
+        {
+            "businessStartDate": "8/11/2020",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "1/1/2021",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "1/7/2012",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "12/1/2021",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "1/1/2018",
+            "Neighborhoods": "Outer Mission"
+        },
+        {
+            "businessStartDate": "1/10/2016",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "10/15/1975",
+            "Neighborhoods": "Inner Sunset"
+        },
+        {
+            "businessStartDate": "1/10/2008",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/12/1993"
+        },
+        {
+            "businessStartDate": "6/4/2015",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "8/2/2016",
+            "Neighborhoods": "Oceanview/Merced/Ingleside"
+        },
+        {
+            "businessStartDate": "10/16/2020",
+            "Neighborhoods": "Marina"
+        },
+        {
+            "businessStartDate": "8/10/2008",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/8/2001",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "12/21/2020",
+            "Neighborhoods": "Bayview Hunters Point"
+        },
+        {
+            "businessStartDate": "09/29/2017",
+            "Neighborhoods": "Excelsior"
+        },
+        {
+            "businessStartDate": "08/23/2018",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/1/2004",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/4/2017",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "1/8/2001",
+            "Neighborhoods": "Tenderloin"
+        },
+        {
+            "businessStartDate": "05/21/2018",
+            "Neighborhoods": "Mission Bay"
+        },
+        {
+            "businessStartDate": "8/10/2008",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "12/21/2015",
+            "Neighborhoods": "Tenderloin"
+        },
+        {
+            "businessStartDate": "1/4/2019",
+            "Neighborhoods": "Castro/Upper Market"
+        },
+        {
+            "businessStartDate": "01/21/2020",
+            "Neighborhoods": "Mission Bay"
+        },
+        {
+            "businessStartDate": "04/15/2013",
+            "Neighborhoods": "Noe Valley"
+        },
+        {
+            "businessStartDate": "1/4/2011",
+            "Neighborhoods": "Bernal Heights"
+        },
+        {
+            "businessStartDate": "1/1/2019",
+            "Neighborhoods": "Bernal Heights"
+        },
+        {
+            "businessStartDate": "07/17/2015",
+            "Neighborhoods": "Inner Richmond"
+        },
+        {
+            "businessStartDate": "11/25/2019",
+            "Neighborhoods": "Noe Valley"
+        },
+        {
+            "businessStartDate": "1/1/1987",
+            "Neighborhoods": "Mission Bay"
+        },
+        {
+            "businessStartDate": "04/25/2017",
+            "Neighborhoods": "Excelsior"
+        },
+        {
+            "businessStartDate": "03/14/2005",
+            "Neighborhoods": "Mission Bay"
+        },
+        {
+            "businessStartDate": "1/8/2001",
+            "Neighborhoods": "Nob Hill"
+        },
+        {
+            "businessStartDate": "01/14/2021"
+        },
+        {
+            "businessStartDate": "1/4/2019",
+            "Neighborhoods": "Marina"
+        },
+        {
+            "businessStartDate": "6/7/2009",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "1/1/2003",
+            "Neighborhoods": "Outer Richmond"
+        },
+        {
+            "businessStartDate": "4/2/2006",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "1/1/2011",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "3/7/2014",
+            "Neighborhoods": "Outer Mission"
+        },
+        {
+            "businessStartDate": "11/16/2020",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "9/6/2020",
+            "Neighborhoods": "Mission Bay"
+        },
+        {
+            "businessStartDate": "07/18/2017",
+            "Neighborhoods": "Bayview Hunters Point"
+        },
+        {
+            "businessStartDate": "1/3/2016",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/7/2009",
+            "Neighborhoods": "Tenderloin"
+        },
+        {
+            "businessStartDate": "07/20/2010",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "1/1/2015",
+            "Neighborhoods": "Western Addition"
+        },
+        {
+            "businessStartDate": "1/7/1997",
+            "Neighborhoods": "Nob Hill"
+        },
+        {
+            "businessStartDate": "11/1/2021",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "08/19/2020",
+            "Neighborhoods": "Outer Mission"
+        },
+        {
+            "businessStartDate": "05/29/2014",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "06/27/2016",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "10/20/2019",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "01/14/2021",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "1/1/1996",
+            "Neighborhoods": "Noe Valley"
+        },
+        {
+            "businessStartDate": "3/6/2014",
+            "Neighborhoods": "Western Addition"
+        },
+        {
+            "businessStartDate": "1/7/2017",
+            "Neighborhoods": "Pacific Heights"
+        },
+        {
+            "businessStartDate": "11/24/2020",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "11/5/2015",
+            "Neighborhoods": "Nob Hill"
+        },
+        {
+            "businessStartDate": "2/1/2013",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "7/4/2004",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "04/23/2009",
+            "Neighborhoods": "Hayes Valley"
+        },
+        {
+            "businessStartDate": "1/3/2017",
+            "Neighborhoods": "Potrero Hill"
+        },
+        {
+            "businessStartDate": "1/12/2001",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "1/10/2016",
+            "Neighborhoods": "Bayview Hunters Point"
+        },
+        {
+            "businessStartDate": "8/10/2018",
+            "Neighborhoods": "Hayes Valley"
+        },
+        {
+            "businessStartDate": "1/10/2018",
+            "Neighborhoods": "Pacific Heights"
+        },
+        {
+            "businessStartDate": "08/18/2016",
+            "Neighborhoods": "Pacific Heights"
+        },
+        {
+            "businessStartDate": "2/4/2002",
+            "Neighborhoods": "Pacific Heights"
+        },
+        {
+            "businessStartDate": "8/1/2002",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "06/22/2020",
+            "Neighborhoods": "Nob Hill"
+        },
+        {
+            "businessStartDate": "10/11/2020",
+            "Neighborhoods": "Bayview Hunters Point"
+        },
+        {
+            "businessStartDate": "9/3/2020",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "01/29/2010",
+            "Neighborhoods": "Treasure Island"
+        },
+        {
+            "businessStartDate": "1/1/2021",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "05/21/2019",
+            "Neighborhoods": "Inner Sunset"
+        },
+        {
+            "businessStartDate": "02/23/2015",
+            "Neighborhoods": "Outer Richmond"
+        },
+        {
+            "businessStartDate": "01/25/2016",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "08/14/2019",
+            "Neighborhoods": "Tenderloin"
+        },
+        {
+            "businessStartDate": "08/22/2018",
+            "Neighborhoods": "Bayview Hunters Point"
+        },
+        {
+            "businessStartDate": "02/23/2016",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "10/23/2017",
+            "Neighborhoods": "Sunset/Parkside"
+        },
+        {
+            "businessStartDate": "02/22/1996"
+        },
+        {
+            "businessStartDate": "07/15/2020",
+            "Neighborhoods": "Nob Hill"
+        },
+        {
+            "businessStartDate": "3/4/2018",
+            "Neighborhoods": "Chinatown"
+        },
+        {
+            "businessStartDate": "8/1/2002"
+        },
+        {
+            "businessStartDate": "01/20/2017",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "09/26/2016",
+            "Neighborhoods": "Outer Richmond"
+        },
+        {
+            "businessStartDate": "04/27/2012",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "1/3/2013",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "1/5/2014",
+            "Neighborhoods": "Presidio Heights"
+        },
+        {
+            "businessStartDate": "10/3/2015",
+            "Neighborhoods": "Haight Ashbury"
+        },
+        {
+            "businessStartDate": "2/7/2018",
+            "Neighborhoods": "West of Twin Peaks"
+        },
+        {
+            "businessStartDate": "1/1/2021"
+        },
+        {
+            "businessStartDate": "04/26/2019",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "2/1/2013",
+            "Neighborhoods": "Western Addition"
+        },
+        {
+            "businessStartDate": "4/1/1995",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "1/4/2020",
+            "Neighborhoods": "Bayview Hunters Point"
+        },
+        {
+            "businessStartDate": "1/4/2017",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "1/10/1968",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "08/23/2019",
+            "Neighborhoods": "South of Market"
+        },
+        {
+            "businessStartDate": "12/10/2020"
+        },
+        {
+            "businessStartDate": "2/11/2016",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "10/14/2011"
+        },
+        {
+            "businessStartDate": "1/1/2021",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "1/1/2021",
+            "Neighborhoods": "Outer Richmond"
+        },
+        {
+            "businessStartDate": "5/1/2018",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "1/2/2017",
+            "Neighborhoods": "Mission"
+        },
+        {
+            "businessStartDate": "02/14/2018",
+            "Neighborhoods": "Financial District/South Beach"
+        },
+        {
+            "businessStartDate": "04/23/2015",
+            "Neighborhoods": "Inner Richmond"
+        },
+        {
+            "businessStartDate": "2/1/2015",
+            "Neighborhoods": "Russian Hill"
+        },
+        {
+            "businessStartDate": "10/24/2016",
+            "Neighborhoods": "Mission Bay"
+        }
+    ]}

@@ -1,0 +1,19 @@
+body{
+    background-color: lightgrey;
+}
+.title{
+    padding:0px;
+}
+.title h3{
+    padding: 10px;
+    background-color: grey;
+    color: #fff;
+    text-align:center;
+}
+.multiselect-dropdown .dropdown-btn .selected-item{
+    border: 1px solid lightgrey;
+    background: #adb5bd;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
